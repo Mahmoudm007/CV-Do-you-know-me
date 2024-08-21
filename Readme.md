@@ -81,3 +81,14 @@ Follow these steps to set up the project on your local machine:
 git clone https://github.com/your_username/cv_do_you_know_me.git
 cd cv_do_you_know_me
 pip install -r requirements.txt
+
+
+### Team
+------------------------------------------
+
+| Team Members' Names | 
+|---------------------|
+| [Ahmed Kamal](https://github.com/AhmedKamalMohammedElSayed)|
+| [Amgad Atef](https://github.com/amg-eng)| 
+| [Mahmoud Magdy](https://github.com/MahmoudMagdy404)|       
+| [Mahmoud Mohamed ](https://github.com/Mahmoudm007)|     
