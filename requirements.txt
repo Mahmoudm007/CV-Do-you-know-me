@@ -1,0 +1,11 @@
+opencv-python
+mtcnn
+PyQt5
+Pillow
+numpy
+mediapipe
+jsonlib
+joblib
+matplotlib
+scikit-learn
+deepface
